@@ -94,9 +94,9 @@ const introduction = {
   text: [
     "Hello there, I'm so happy you are here! (:",
 
-		"I bring 3 years of experience in my career, specializing in HTML5, CSS3, and JavaScript, with a strong command of modern frameworks like React and Vue.js. I'm well-versed in version control systems like Git, which enables seamless collaborative development.",
+		"I bring 4 years of experience in my career, specializing in HTML5, CSS3, and JavaScript, with a strong command of modern frameworks like React and Vue.js. I'm well-versed in version control systems like Git, which enables seamless collaborative development.",
     "My strengths lie in problem-solving and effectively troubleshooting and debugging complex frontend challenges. I'm passionate about keeping up with the latest trends and best practices in frontend development", 
-    "Additionally, I've gained experience working on backend projects using technologies such as Golang, Laravel, Python, and Sails.js",
+    "Additionally, I've gained experience working on backend projects using technologies such as Node js, Golang, Laravel, Python, and Sails.js",
     "You can download my resume here."
   ],
 };
